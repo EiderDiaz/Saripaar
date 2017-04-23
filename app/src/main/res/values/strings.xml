@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Saripaar</string>
+    <string name="introduce_nombre_de_usuario">introduce nombre de usuario</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="enviar">enviar</string>
+    <string name="instituto_tecnologico_de_los_mochis">instituto tecnologico de los mochis</string>
+    <string name="introduce_una_contrase_a">introduce una contraseña</string>
+    <string name="introduce_tu_correo">introduce tu correo</string>
+</resources>
